@@ -3,6 +3,7 @@ deployment:
     - export DEPLOYPATH=/home/u1525578/public_html/
     - /bin/cp .editorconfig $DEPLOYPATH
     - /bin/cp .gitignore $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
     - /bin/cp composer.json $DEPLOYPATH
     - /bin/cp contributing.md $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
