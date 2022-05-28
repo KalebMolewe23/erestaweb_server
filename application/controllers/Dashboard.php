@@ -1,10 +1,10 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class Auth extends CI_Controller
+class Dashboard extends CI_Controller
 {
     public function index()
     {
-        $this->load->view('administrator/home');
+        $this->load->view('dashboard/home');
     }
 }
