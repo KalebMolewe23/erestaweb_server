@@ -14,7 +14,7 @@
     left: 0;
     height: 100%;
     width: 260px;
-    background: #8359A3;
+    background: #2a9df4;
     z-index: 100;
     transition: all 0.5s ease;
 }
@@ -74,7 +74,7 @@
 }
 
 .sidebar .nav-links li:hover {
-    background: #8359A3;
+    background: #2a9df4;;
 }
 
 .sidebar .nav-links li .iocn-link {
@@ -127,7 +127,7 @@
 .sidebar .nav-links li .sub-menu {
     padding: 6px 6px 14px 80px;
     margin-top: -10px;
-    background: #8359A3;
+    background: #2a9df4;;
     display: none;
 }
 
@@ -198,7 +198,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #7f3e98;
+    background: #03254c;
     padding: 12px 0;
     transition: all 0.5s ease;
 }
