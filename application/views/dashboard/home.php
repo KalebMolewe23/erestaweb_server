@@ -37,7 +37,7 @@
 
 <section id="hero">
     <h1><strong>ERESTAWEB DEVELOVER</strong></h1>
-    <h1><strong>ERESTAWEB DEVELOVER</strong></h1><br><br><br><br><br><br><br>
+    <h1><strong>ERESTAWEB DEVELOVER</strong></h1><br><br><br><br><br>
     <div class="animasi-teks"><strong>Jadikan Project Keinginan Kalian, Kami Siap Membantu.....</strong></div>
 </section>
 
