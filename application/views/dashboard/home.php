@@ -36,10 +36,13 @@
 </section>
 
 <section id="hero">
-    <h1><strong>ERESTAWEB DEVELOVER</strong></h1>
-    <h1><strong>ERESTAWEB DEVELOVER</strong></h1><br><br><br><br><br>
-    <div class="animasi-teks"><strong>Jadikan Project Keinginan Kalian, Kami Siap Membantu.....</strong></div>
+    <div class="container">
+        <h1><strong>ERESTAWEB DEVELOVER</strong></h1>
+        <h1><strong>ERESTAWEB DEVELOVER</strong></h1><br><br><br>
+        <div class="animasi-teks"><strong>Jadikan Project Keinginan Kalian, Kami Siap Membantu.....</strong></div>
+    </div>
 </section>
+
 
 <section id="img-wa">
     <div class="img">
