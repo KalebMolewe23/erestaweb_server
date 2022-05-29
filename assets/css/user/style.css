@@ -192,7 +192,7 @@ body{
 }
 
 #hero .animasi-teks {
-    font-size: 20px;
+    font-size: 15px;
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
@@ -1053,7 +1053,7 @@ footer .copyright{
         background-position: top 30% right 30%;
     }
     #hero .animasi-teks {
-        font-size: 13px;
+        font-size: 8px;
         width: 100%;
         white-space: nowrap;
         overflow: hidden;
@@ -1061,7 +1061,7 @@ footer .copyright{
         animation: animasi-ketik 5s steps(70, end);
     }
     h1{
-        font-size: 30px;
+        font-size: 15px;
     }
     #feature{
         justify-content: center;
