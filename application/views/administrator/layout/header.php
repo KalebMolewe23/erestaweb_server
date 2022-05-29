@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
 
 <head>
-    <link rel="icon" href="<?= base_url("assets/admin/logo/logoig.jpg"); ?>">
+    <link rel="icon" href="<?= base_url("assets/logo/logo.png"); ?>">
     <title><?= $title; ?></title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
